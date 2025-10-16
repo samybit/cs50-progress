@@ -1,7 +1,7 @@
 #include <cs50.h>
 #include <stdio.h>
 
-// function pattern
+// Function prototypes
 int calculate_quarters(int cents);
 int calculate_dimes(int cents);
 int calculate_nickels(int cents);
