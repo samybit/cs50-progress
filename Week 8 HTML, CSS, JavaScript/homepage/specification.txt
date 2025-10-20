@@ -1,0 +1,14 @@
+HTML tags used:
+<h1>, <h2>, <p>, <ul>, <li>, <img>, <a>, <nav>, <footer>, <form>, <input>, <button>, <textarea>, <div>
+
+CSS selectors used:
+body, h1, h2, .container p, #message, .footer
+
+CSS properties used:
+font-family, color, background-color, font-size, margin
+
+Bootstrap feature:
+Used Bootstrap navbar, buttons, grid system (card deck), and form styling.
+
+JavaScript feature:
+Added an interactive button that displays a dynamic message when clicked.

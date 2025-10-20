@@ -1,0 +1,8 @@
+1. Audio aura:
+The listener’s top 100 songs show high energy (average ≈ 0.66), strong rhythm, and high danceability.
+Their audio aura can be described as upbeat, lively, and confident, suggesting a preference for energetic, feel-good music.
+
+2. Why it may not be representative and better methods:
+This method treats all songs equally and ignores how often each was played, when it was played, or the listener’s mood context.
+A better approach would weight songs by play frequency and duration, include lyrical sentiment analysis,
+and factor in time-of-day or activity context to represent the listener’s true emotional pattern.
